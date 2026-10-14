@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Library Checkout Printable View
+// @name         Multnomah Library Checkout Printable View
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Create a printable view of library checkout books (Clackamas + WCCLS)
